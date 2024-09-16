@@ -1,0 +1,15 @@
+.social_list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.social-list svg {
+    font-size: 3em;
+    cursor: pointer;
+}
+.back{
+    background-color: #3f3f3f;
+    min-width: 900px;
+}
